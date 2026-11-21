@@ -7,7 +7,7 @@ const app = express();
 
 const allowedOrigins = [
   "http://localhost:5173",
-  "https://fourfold-creative.onrender.com",
+  "https://forufold-backend.onrender.com",
 ];
 
 app.use(
